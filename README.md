@@ -54,5 +54,6 @@ I’m a Business Analyst aspirant passionate about solving real-world problems w
 <img width="1358" height="741" alt="image" src="https://github.com/user-attachments/assets/58515573-ac3a-45d5-8445-0d66736b496a" />
 <img width="1333" height="751" alt="image" src="https://github.com/user-attachments/assets/8fa01d3e-4ba5-4519-a0e9-f0c92657823d" />
 <img width="1345" height="742" alt="image" src="https://github.com/user-attachments/assets/27d07e8d-86cf-4427-807a-81b4064b574b" />
+<img width="1350" height="744" alt="image" src="https://github.com/user-attachments/assets/36e1876a-c61f-4c5c-93ad-21fb47287ceb" />
 
 
