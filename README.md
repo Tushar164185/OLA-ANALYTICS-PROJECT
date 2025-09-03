@@ -51,3 +51,4 @@ Explore the dashboards & insights
 ✨ About Me
 
 I’m a Business Analyst aspirant passionate about solving real-world problems with data, SQL, and visualization tools.
+[Screenshot](Screenshot 2025-09-03 231144.png)
